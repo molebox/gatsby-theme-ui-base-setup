@@ -1,4 +1,4 @@
 module.exports = {
     siteMetadata: {},
-    plugins: []
+    plugins: ['gatsby-plugin-theme-ui']
 }
